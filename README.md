@@ -1,3 +1,4 @@
+# Simple Database Management System in C
 This project is a basic database management system implemented in C. It simulates a lightweight, interactive command-line tool for managing three categories of data: programming languages, operating systems, and databases. Each category is modeled as a dynamically allocated table of structs, with support for common database operations like inserting, modifying, soft-deleting, and retrieving records.
 
 Features:
